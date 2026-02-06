@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class sixthque{
+public class Sixthque{
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
@@ -14,3 +14,4 @@ public class sixthque{
         }
     }
 }
+
