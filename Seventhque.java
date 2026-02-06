@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class seventhque {
+public class Seventhque {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
@@ -18,3 +18,4 @@ public class seventhque {
         System.out.println("Maximum = " + max);
     }
 }
+
