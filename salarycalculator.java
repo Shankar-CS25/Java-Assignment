@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class salarycalculator {
+public class SalaryCalculator {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
@@ -26,3 +26,4 @@ public class salarycalculator {
         System.out.println("Net Salary = " + netSalary);
     }
 }
+
