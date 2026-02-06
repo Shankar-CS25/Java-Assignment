@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class firstque {
+public class Firstque {
 
     static  int add(int x, int y) {
         while(y!=0){
@@ -21,3 +21,4 @@ return x;
 
 }
 }
+
