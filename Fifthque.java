@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class fifthque {
+public class Fifthque {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
@@ -18,3 +18,4 @@ public class fifthque {
         System.out.println("After Swap: a = " + a + ", b = " + b);
     }
 }
+
