@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class secondque {
+public class Secondque {
     static int add(int a, int b){
         while (b!=0){
             int carry =a & b;
@@ -25,3 +25,4 @@ public class secondque {
     }
 
 }
+
