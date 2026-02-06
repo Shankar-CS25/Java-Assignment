@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class thirdque {
+public class Thirdque {
 
     static int divide(int dividend, int divisor) {
 
@@ -43,3 +43,4 @@ public class thirdque {
         System.out.println("Quotient = " + divide(dividend, divisor));
     }
 }
+
