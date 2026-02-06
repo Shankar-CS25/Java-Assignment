@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class billingsystem {
+public class BillingSystem {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
@@ -29,3 +29,4 @@ public class billingsystem {
         System.out.println("Final Payable Amount = " + finalAmount);
     }
 }
+
