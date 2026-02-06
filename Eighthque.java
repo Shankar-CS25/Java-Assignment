@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class eighthque {
+public class Eighthque {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
@@ -17,3 +17,4 @@ public class eighthque {
         System.out.println("Total set bits = " + count);
     }
 }
+
