@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class fourthque {
+public class Fourthque {
 
     static int multiply(int a, int b) {
         int result = 0;
@@ -31,3 +31,4 @@ public class fourthque {
         System.out.println("Multiplication = " + multiply(a, b));
     }
 }
+
